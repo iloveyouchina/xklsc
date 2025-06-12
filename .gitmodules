@@ -1,0 +1,4 @@
+   [submodule "themes/terminal"]
+       path = themes/terminal
+       url = https://github.com/panr/hugo-theme-terminal.git  # 这里应该是实际的子模块仓库URL
+
