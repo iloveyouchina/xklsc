@@ -1,0 +1,120 @@
+baseURL = 'https://example.org/'
+languageCode = 'zh-cn'
+
+#仅当您将主题保留在`themes`目录中时才添加它。
+#如果您使用主题作为远程Hugo模块，请删除它。
+theme = "terminal"
+pagination.pagerSize = 5
+
+#需要色度和自定义语法高亮显示。
+[markup.highlight]
+  noClasses = false
+
+[params]
+#你的主要内容的目录名（默认为`content/posts`）。
+#设置内容的列表将显示在您的索引页面（baseurl）上。
+  contentTypeName = "posts"
+
+#如果将此设置为0，则只有触发器可见
+  showMenuItems = 5
+
+# show selector切换语言
+  showLanguageSelector = false
+
+#将主题设置为全屏宽度
+  fullWidthTheme = false
+
+# 具有默认宽度的居中主题
+  centerTheme = true
+#如果您的资源目录包含一个名为'cover'的图像。(jpg|Webp）′，|webp)`,
+#则该文件将被自动用作封面。
+#有了这个选项，你就不必把'cover'参数放在一个front-matter中。
+  autoCover = true
+#设置post以显示最后更新
+#如果你使用git，你可以将`enableGitInfo`设置为`true`，然后post会自动获取最后一次更新
+  showLastUpdated = false
+
+  # Provide a string as a prefix for the last update date. By default, it looks like this: 2020-xx-xx [Updated: 2020-xx-xx] :: Author
+  # updatedDatePrefix = "Updated"
+
+  # whether to show a page's estimated reading time
+  # readingTime = false # default
+
+  # whether to show a table of contents
+  # can be overridden in a page's front-matter
+  # Toc = false # default
+
+  # set title for the table of contents
+  # can be overridden in a page's front-matter
+  # TocTitle = "Table of Contents" # default
+
+  # Set date/time format for posts
+  # This will impact the date/time displayed on
+  # index.html, the posts list page, and on posts themselves
+  # This value can also be configured per-post on front matter
+  # If you have any issues with the timezone rendering differently
+  # than you expected, please ensure your timezone is correctly set
+  # on your server.
+  # This value can be customized according to Hugo documentation:
+  # https://gohugo.io/functions/time/format/
+  # Default value (no changes needed):
+  # dateFormat = "2006-01-02"
+  # Example format, with date, time, and timezone abbreviation:
+  # dateFormat = "2006-01-02 3:04:06 PM MST"
+
+
+[params.twitter]
+  # set Twitter handles for Twitter cards
+  # see https://developer.twitter.com/en/docs/tweets/optimize-with-cards/guides/getting-started#card-and-content-attribution
+  # do not include @
+  creator = ""
+  site = ""
+
+[languages]
+  [languages.en]
+    languageName = "中文"
+    title = "新康隆商城"
+
+    [languages.en.params]
+      subtitle = "经商信为本，诚招天下客；经营创新，服务创新"
+      owner = "新康隆商城"
+      keywords = ""
+      copyright = "本网站不代表官方，仅做免费展示"
+      menuMore = "更多"
+      readMore = "阅读全文"
+      readOtherPosts = "Read other posts"
+      newerPosts = "Newer posts"
+      olderPosts = "Older posts"
+      missingContentMessage = "页面未找到"
+      missingBackButtonLabel = "返回首页"
+      minuteReadingTime = "min read"
+      words = "words"
+
+      [languages.en.params.logo]
+        logoText = "新康隆商城"
+        logoHomeLink = "/"
+
+    [languages.en.menu]
+      [[languages.en.menu.main]]
+        identifier = "about"
+        name = "❤️关于我们"
+        url = "/about"
+      [[languages.en.menu.main]]
+        identifier = "contact"
+        name = "☎️招商企划"
+        url = "/contact"
+      [[languages.en.menu.main]]
+        identifier = "floors"
+        name = "🏬楼层指引"
+        url = "/floors"
+      [[languages.en.menu.main]]
+        identifier = "hours"
+        name = "🕗营业时间"
+        url = "/hours"
+
+
+[module]
+  # In case you would like to make changes to the theme and keep it locally in you repository,
+  # uncomment the line below (and correct the local path if necessary).
+  # --
+  # replacements = "github.com/panr/hugo-theme-terminal/v4 -> themes/terminal"
