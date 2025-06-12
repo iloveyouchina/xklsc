@@ -3,7 +3,7 @@ languageCode = 'zh-cn'
 
 #仅当您将主题保留在`themes`目录中时才添加它。
 #如果您使用主题作为远程Hugo模块，请删除它。
-#theme = "terminal"
+theme = "terminal"
 pagination.pagerSize = 5
 
 #需要色度和自定义语法高亮显示。
@@ -113,7 +113,7 @@ pagination.pagerSize = 5
         url = "/hours"
 
 
-  # [module]
+[module]
         # this is needed when you fetch the theme as a submodule to your repo.
         # replacements = "github.com/panr/hugo-theme-terminal/4 -> themes/terminal"
   # [[module.imports]]
