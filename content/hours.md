@@ -1,7 +1,7 @@
 ---
-description: "冬季夏季营业时间"    # 用于搜索引擎
-keywords: ["关键词1","关键词2"]
-meta_title: "冬季夏季营业时间"     # 替代<title>标签
+description: "新康隆冬季夏季营业时间"    # 用于搜索引擎
+keywords: ["几点开门","几点关门"]
+meta_title: "新康隆商城冬季夏季营业时间"     # 替代<title>标签
 noindex: false           # false为允许搜索引擎索引
 weight: 4       
 

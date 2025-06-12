@@ -1,7 +1,7 @@
 ---
 description: "关于我们"    # 用于搜索引擎
-keywords: ["关键词1","关键词2"]
-meta_title: "冬季夏季营业时间"     # 替代<title>标签
+keywords: ["品牌溯源","全品类覆盖"]
+meta_title: "经商信为本，诚招天下客；经营创新，服务创新"     # 替代<title>标签
 noindex: false           # false为允许搜索引擎索引
 weight: 3
 

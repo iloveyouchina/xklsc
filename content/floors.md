@@ -1,10 +1,9 @@
 ---
 description: "楼层品类分布"    # 用于搜索引擎
-keywords: ["关键词1","关键词2"]
-meta_title: ""     # 替代<title>标签
+keywords: ["新康隆品类","新康隆"]
+meta_title: "新康隆品类分布"     # 替代<title>标签
 noindex: false           # false为允许搜索引擎索引
-weight: 2    
-
+weight: 2
 ---
 
 

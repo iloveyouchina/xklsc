@@ -72,7 +72,7 @@ pagination.pagerSize = 5
 
 [languages]
   [languages.en]
-    languageName = "中文"
+    languageName = "English"
     title = "新康隆商城"
 
     [languages.en.params]
@@ -80,7 +80,7 @@ pagination.pagerSize = 5
       owner = "新康隆商城"
       keywords = "新康隆商城,康隆商城,新康隆商场，康隆商场，太原商城，太原新康隆"
       copyright = "本网站不代表官方，仅做免费展示"
-      menuMore = "更多"
+      menuMore = "Show more"
       readMore = "阅读全文"
       readOtherPosts = "Read other posts"
       newerPosts = "Newer posts"
