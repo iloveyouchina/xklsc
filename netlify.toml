@@ -1,4 +1,6 @@
 [build]
   command = "hugo --gc --minify"
   publish = "public"
-  environment = { HUGO_VERSION = "0.147.8-extended" }  # 必须使用 Extended 版
+
+[context.production.environment]
+  HUGO_VERSION = "0.147.8"  # 替换为有效版本号
