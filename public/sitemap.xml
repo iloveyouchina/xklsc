@@ -1,1 +1,19 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml"><url><loc>https://xklsc.com/contact/</loc></url><url><loc>https://xklsc.com/floors/</loc></url><url><loc>https://xklsc.com/about/</loc></url><url><loc>https://xklsc.com/hours/</loc></url><url><loc>https://xklsc.com/categories/</loc></url><url><loc>https://xklsc.com/tags/</loc></url><url><loc>https://xklsc.com/</loc></url></urlset>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://xklsc.com/contact/</loc>
+  </url><url>
+    <loc>https://xklsc.com/</loc>
+  </url><url>
+    <loc>https://xklsc.com/floors/</loc>
+  </url><url>
+    <loc>https://xklsc.com/about/</loc>
+  </url><url>
+    <loc>https://xklsc.com/hours/</loc>
+  </url><url>
+    <loc>https://xklsc.com/categories/</loc>
+  </url><url>
+    <loc>https://xklsc.com/tags/</loc>
+  </url>
+</urlset>
