@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>首页 on 新康隆商城</title>
-    <link>https://example.org/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content in 首页 on 新康隆商城</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
-      <link>https://example.org/contact/</link>
+      <link>http://localhost:1313/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/contact/</guid>
+      <guid>http://localhost:1313/contact/</guid>
       <description>&lt;p&gt;&lt;strong&gt;📞 客服热线&lt;/strong&gt;: 0351-2539123&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;📞 合作企划&lt;/strong&gt;: 0351-7252345&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;📞 招商热线&lt;/strong&gt;: 13394319977&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
-      <link>https://example.org/floors/</link>
+      <link>http://localhost:1313/floors/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/floors/</guid>
+      <guid>http://localhost:1313/floors/</guid>
       <description>&lt;h3 id=&#34;-1f--生活时尚活力焕新&#34;&gt;🏪 1F · 生活时尚·活力焕新&lt;/h3&gt;&#xA;&lt;p&gt;▸ 时尚配饰｜工艺品｜办公用品&lt;br&gt;&#xA;▸ 美妆美容｜美体美甲｜婚庆用品&lt;br&gt;&#xA;▸ 精品车饰｜数码家电&lt;br&gt;&#xA;👉 生活所需，一站式配齐！&lt;/p&gt;&#xA;&lt;h3 id=&#34;-2f--型格主场动感潮流&#34;&gt;👔 2F · 型格主场·动感潮流&lt;/h3&gt;&#xA;&lt;p&gt;▸ 男装｜鞋类｜裤类&lt;br&gt;&#xA;▸ 皮具鞋包｜运动系列&lt;br&gt;&#xA;👉 型男潮女的穿搭秘籍，从这里开始！&lt;/p&gt;&#xA;&lt;h3 id=&#34;-3f--魅力衣橱优雅绽放&#34;&gt;👗 3F · 魅力衣橱·优雅绽放&lt;/h3&gt;&#xA;&lt;p&gt;▸ 女装｜中老年装&lt;br&gt;&#xA;👉 每个年龄段的优雅，都有专属舞台～&lt;/p&gt;&#xA;&lt;h3 id=&#34;-4f--精致生活细节之选&#34;&gt;💐 4F · 精致生活·细节之选&lt;/h3&gt;&#xA;&lt;p&gt;▸ 精品女装｜孕妇装｜针织内衣&lt;br&gt;&#xA;▸ 居家百货｜喜庆用品｜汽车用品&lt;br&gt;&#xA;▸ 钟表挂画｜绢花刺绣｜美容美妆&lt;br&gt;&#xA;▸ 轻奢泳衣｜悦·生活｜茶饮&amp;amp;家居馆&lt;br&gt;&#xA;👉 生活的仪式感，藏在每个小细节里～&lt;/p&gt;&#xA;&lt;h3 id=&#34;-5f--童趣天地欢乐王国&#34;&gt;👶 5F · 童趣天地·欢乐王国&lt;/h3&gt;&#xA;&lt;p&gt;▸ 儿童系列大全｜儿童乐园&lt;br&gt;&#xA;▸ 外贸布艺｜时尚女装｜休闲食品&lt;br&gt;&#xA;👉 宝贝的欢笑，从踏上这片欢乐开始！&lt;/p&gt;&#xA;&lt;h3 id=&#34;-6f--舌尖之旅暖心相聚&#34;&gt;🍽️ 6F · 舌尖之旅·暖心相聚&lt;/h3&gt;&#xA;&lt;p&gt;▸ 餐厅（从五层走楼梯上六层）&lt;br&gt;&#xA;👉 美食治愈心情，相聚时刻更温馨～&lt;/p&gt;&#xA;&lt;h3 id=&#34;-诚信为本诚招天下客&#34;&gt;🌟 诚信为本·诚招天下客&lt;/h3&gt;&#xA;&lt;p&gt;经商信为本，服务心为先——&lt;br&gt;&#xA;新康隆商城，期待与您共赴美好购物之旅！&lt;/p&gt;&#xA;&lt;p&gt;（注：实际楼层动线以现场指引为准，祝您购物愉快！）&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
-      <link>https://example.org/about/</link>
+      <link>http://localhost:1313/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/about/</guid>
+      <guid>http://localhost:1313/about/</guid>
       <description>&lt;h2 id=&#34;品牌溯源二十余载初心如磐&#34;&gt;品牌溯源：二十余载初心如磐&lt;/h2&gt;&#xA;&lt;p&gt;新康隆商城隶属于“康隆”品牌，是龙城规模扩张战略中的标杆企业。&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;起源&lt;/strong&gt;：萌芽于2001年，深耕本土消费市场多年；&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;成立&lt;/strong&gt;：2006年7月正式注册成立，承载“让百姓购物更便捷”的使命；&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;启航&lt;/strong&gt;：2008年12月13日盛大开业，成为太原市历史最悠久的百姓综合购物商城之一。&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;核心优势全品类覆盖全维度服务&#34;&gt;核心优势：全品类覆盖·全维度服务&lt;/h2&gt;&#xA;&lt;h3 id=&#34;-经营品类万千好物-精选生活&#34;&gt;🛒 经营品类：万千好物 精选生活&lt;/h3&gt;&#xA;&lt;p&gt;商城经营超 &lt;strong&gt;10万+SKU&lt;/strong&gt;，涵盖12大核心品类：&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;服饰鞋包&lt;/strong&gt;：男女装、童装、鞋帽、珠宝配饰（如“老凤祥”“意尔康”“稻草人”等知名品牌）；&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;日用百货&lt;/strong&gt;：家居用品、小家电、针织品、床上用品；&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;食品生鲜&lt;/strong&gt;：休闲零食、粮油副食、生鲜果蔬（部分区域）；&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;体验配套&lt;/strong&gt;：儿童游乐园、特色餐饮街区，打造“购物+休闲”复合场景。&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;-服务体系诚信为本细节致胜&#34;&gt;💁 服务体系：诚信为本·细节致胜&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;黄金区位&lt;/strong&gt;：占据城市核心商圈，交通便捷，辐射全城客群；&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;品牌矩阵&lt;/strong&gt;：引进千余家优质商户，严选口碑品牌，拒绝“山寨货”；&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;贴心服务&lt;/strong&gt;：免费停车场、售后无忧政策、会员专属权益，让购物更省心；&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;环境升级&lt;/strong&gt;：敞亮空间布局、智能导购系统、定期消杀保洁，守护消费体验。&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;经营理念以信立业以心致远&#34;&gt;经营理念：以信立业·以心致远&lt;/h2&gt;&#xA;&lt;p&gt;我们坚守三大核心价值观：&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;诚信为本&lt;/strong&gt;：明码标价、假一赔十，2021年获评“山西省诚信示范商城”；&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;服务至上&lt;/strong&gt;：打造“亲情服务”团队，从售前咨询到售后维权，全程无忧；&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;创新引领&lt;/strong&gt;：拥抱数字化运营，推出线上商城、直播带货，开启“线下体验+线上便捷”双模式。&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;“同心协力、勇攀高峰，将‘康隆’打造成龙城百姓最值得信赖的商城”——这是全体新康隆人的永恒追求。&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;作为集&lt;strong&gt;批发、零售&lt;/strong&gt;于一体的大型综合商城，我们始终以“百姓日用类、穿着类商品”为核心，服务覆盖太原及周边区县，是本地家庭一站式购物的首选之地。&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;“经商信为本，诚招天下客；经营创新，服务创新”&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;未来愿景：成为城市美好生活的共建者!&lt;/p&gt;&#xA;&lt;h2 id=&#34;所获荣誉见证品质与担当&#34;&gt;所获荣誉：见证品质与担当&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;2008年：太原市“十大民生商城”提名；&lt;/li&gt;&#xA;&lt;li&gt;2015年：山西省“消费者信得过单位”；&lt;/li&gt;&#xA;&lt;li&gt;2020年：抗疫保供先进单位；&lt;/li&gt;&#xA;&lt;li&gt;2021年：山西省诚信示范商城（服务业类）；&lt;/li&gt;&#xA;&lt;li&gt;连续5年：百姓满意度调查“本土购物首选品牌”TOP1。&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
       <title></title>
-      <link>https://example.org/hours/</link>
+      <link>http://localhost:1313/hours/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/hours/</guid>
+      <guid>http://localhost:1313/hours/</guid>
       <description>&lt;table&gt;&#xA;  &lt;thead&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;th&gt;季节&lt;/th&gt;&#xA;          &lt;th&gt;日期范围&lt;/th&gt;&#xA;          &lt;th&gt;营业时间&lt;/th&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/thead&gt;&#xA;  &lt;tbody&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;冬季&lt;/td&gt;&#xA;          &lt;td&gt;10月8日 - 4月30日&lt;/td&gt;&#xA;          &lt;td&gt;🕘 9:30 - 19:30&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;夏季&lt;/td&gt;&#xA;          &lt;td&gt;5月1日 - 10月7日&lt;/td&gt;&#xA;          &lt;td&gt;🕗 9:30 - 20:00&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/tbody&gt;&#xA;&lt;/table&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;⏰ 时间为当地时间，节假日可能有调整，请以最新公告为准。&lt;/p&gt;&lt;/blockquote&gt;</description>
     </item>
   </channel>
